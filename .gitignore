@@ -1,0 +1,17 @@
+﻿# Database data directory
+mysql_data/
+*.sql.gz
+
+# Environment & configs
+.env
+.env.*
+
+# Logs & temp
+*.log
+logs/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
